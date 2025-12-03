@@ -1,0 +1,12 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "glad"]
+	path = glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "tinycsocket"]
+	path = tinycsocket
+	url = https://gitlab.com/dosshell/tinycsocket.git
